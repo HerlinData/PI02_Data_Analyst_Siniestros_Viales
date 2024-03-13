@@ -72,6 +72,8 @@ Los datos transformados y enriquecidos se cargaron en Power BI, donde se diseña
 
 El detallado proceso ETL documentado aquí sienta una base sólida para un análisis exhaustivo de los siniestros viales en CABA, con el potencial de impactar significativamente en la formulación de estrategias de prevención y mejora de la seguridad vial. Futuras investigaciones pueden expandirse sobre este trabajo, explorando relaciones más profundas y aplicando modelos predictivos para anticipar y mitigar los riesgos de siniestros viales.
 
+El proceso detallado de ETL se puede verificarar en el siguiente notebook: [Proceso de ETL(Extracción, Transformación y Carga)](notebooks/1-ETL.ipynb).
+
 # Documentación EDA 🚦 🚨
 
 ## Análisis `Homicidios` por **Edad**
@@ -214,7 +216,7 @@ Las horas con mayor cantidad de víctimas coinciden con los momentos de mayor ac
 
 - Víctimas de accidentes por rol de la víctima: El alto número de peatones involucrados en accidentes resalta la importancia de mejorar las infraestructuras peatonales, como cruces seguros y mayor visibilidad en zonas de alto tráfico.
 
-
+Para obtener más detalles sobre el proceso EDA se puede consultar la sección correspondiente en el [Notebook EDA, Tratamiento de Datos y Preparación](2-EDA.ipynb)
 
 ### Indicadores de Rendimiento Clave KPI⛔
 
