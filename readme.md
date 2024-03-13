@@ -1,4 +1,6 @@
-## **Proyecto Individual** - 02-Siniestros Viales en CABA con víctimas fatales -(2016-2021) 
+<h1 align="center">Proyecto Individual-02 Siniestros Viales en CABA con víctimas fatales (2016-2021) </h1>
+
+
 
 <p align="center">
   <img src="src/Accidentes.png" alt="Accidentes">
